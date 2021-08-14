@@ -1,16 +1,38 @@
-### Hi there 👋
-
-<!--
-**BruceSteven/BruceSteven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi 👋, I'm Nguyen Quoc Khanh
+A passionate frontend developer from Viet Nam
+brucesteven
+brucesteven
+🔭 I’m currently working on VNUHCM-UIT
+🌱 I’m currently learning AI,Algorithms,Frontend,Backend
+💬 Ask me about Frontend,Algorithms
+📫 How to reach me khanh1234ptdtnttn@gmail.com
+Languages and Tools:
+angular
+bootstrap
+c
+cplusplus
+css3
+django
+docker
+git
+html5
+illustrator
+javascript
+laravel
+linux
+mongodb
+mysql
+nodejs
+opencv
+oracle
+photoshop
+python
+pytorch
+react
+reactnative
+sass
+scikit_learn
+tensorflow
+brucesteven
+brucesteven
+brucesteven
