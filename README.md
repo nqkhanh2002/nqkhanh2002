@@ -12,8 +12,10 @@ My major is information systems but I'm highly motivated and passionate about Co
 
 - 🌱 I’m currently learning **AI/Machine Learning/DeepLearning,Algorithms,Frontend,Backend**
 
-- 💬 Ask me about **Frontend,Algorithms**
+- 💬 Ask me about **AI/ML/DL, Algorithms**
 
-- 📫 How to reach me **nqkdeveloper@gmail.com**
+- 📫 How to reach me:
+  1. Email: **nqkdeveloper@gmail.com**
+  2. Facebook : [Nguyễn Quốc Khánh](https://www.facebook.com/nqk.dev)
 
 
