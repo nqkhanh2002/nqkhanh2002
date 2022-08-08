@@ -15,7 +15,7 @@ My major is information systems but I'm highly motivated and passionate about Co
 - 💬 Ask me about **AI/ML/DL, Algorithms**
 
 - 📫 How to reach me:
-  1. Email: **nqkdeveloper@gmail.com**
-  2. Facebook : [Nguyễn Quốc Khánh](https://www.facebook.com/nqk.dev)
+   - Email: **nqkdeveloper@gmail.com**
+   - Facebook : [Nguyễn Quốc Khánh](https://www.facebook.com/nqk.dev)
 
 
