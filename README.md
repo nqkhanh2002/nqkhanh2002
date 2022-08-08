@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nguyen Quoc Khanh</h1>
 <h3 align="center">A developer from Viet Nam</h3>
-
+# Nguyen Quoc Khanh 
+My major is information systems but I'm highly motivated and passionate about Computer Science. My dream is to use my talents in machine learning/AI and statistical analysis to solve real-world problems and make the customer achieve more. This is me, Nguyen Quoc Khanh
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brucesteven&label=Profile%20views&color=0e75b6&style=flat" alt="brucesteven" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brucesteven" alt="brucesteven" /></a> </p> -->
