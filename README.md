@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 </h1>
+
 <h1 algin="center">Nguyen Quoc Khanh - AI Engineer from Viet Nam </h1> 
 
 My major is information systems but I'm highly motivated and passionate about Computer Science. My dream is to use my talents in machine learning/AI and statistical analysis to solve real-world problems and make the customer achieve more. This is me, Nguyen Quoc Khanh
