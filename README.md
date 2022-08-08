@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [VNUHCM-UIT](https://www.uit.edu.vn/)
 
-- 🌱 I’m currently learning **AI,Algorithms,Frontend,Backend**
+- 🌱 I’m currently learning **AI/Machine Learning/DeepLearning,Algorithms,Frontend,Backend**
 
 - 💬 Ask me about **Frontend,Algorithms**
 
