@@ -20,4 +20,4 @@ My major is Information Systems but I'm highly motivated and passionate about **
 * **Deep Learning**: Have experience in Deep Learning framework (Pytorch, Tensorflow), OpenCV and image processing. Created many projects on object detection, face detection and recognition.
 * **Natural Language Processing**: Experienced in handling NLP tasks such as entity recognition, word segmentation, POS tagging and NLP toolkits (Scikit-learn, NLTK, numpy).
 * **Front-End Developement**: Have 2 years of experience using HTML/JavaScript/CSS, and various web frameworks: Bootstrap, SASS, and Jquery to create commercial & electronic websites.
-* **Back-End Developement**: Have 2 years of experience using HTML/JavaScript/CSS, and various web frameworks: Bootstrap, SASS, and Jquery to create commercial & electronic websites.
+* **Back-End Developement**: Using MongoDB, PHP/Laravel, Java for backends, many of my projects utilize Node's MongoDB driver and experience in Node.js.
