@@ -11,7 +11,7 @@ I'm highly motivated and passionate about **Computer Science**. My dream is to u
 
 - 💬 Ask me about **AI/ML/DL, Algorithms**
 
-- 📫 How to reach me ? Email: nqkdeveloper@gmail.com / Facebook : [Nguyễn Quốc Khánh](https://www.facebook.com/nqk.dev)
+- 📫 Reach me: Email: nqkdeveloper@gmail.com / Facebook : [Nguyễn Quốc Khánh](https://www.facebook.com/nqk.dev)
 
 
 ## Skills and Experience
