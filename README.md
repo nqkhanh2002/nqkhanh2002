@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **AI/ML/DL, Algorithms**
 
-- 📫 Reach me: Email: nqkdeveloper@gmail.com / [Portfolio](https://nqkhanh2002.github.io/portfolio/)
+- 📫 Reach me: Email: nqkdeveloper@gmail.com / [Portfolio](https://nqkhanh2002.github.io)
  
 
 ## Skills and Experience
