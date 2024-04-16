@@ -3,8 +3,10 @@
   <h2>👋 Hi there! I'm Nguyen Quoc Khanh, 🤖 an AI Engineer from Viet Nam 🌱</h1>
 </div>
 
+![Profile banner](https://i.imgur.com/VNP2tTx.gif)
 
 💡 I'm highly motivated and passionate about **Computer Science**. My dream is to use my talents in machine learning/AI and statistical analysis to solve real-world problems and make the customer achieve more. This is me, **Nguyen Quoc Khanh**
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brucesteven&label=Profile%20views&color=0e75b6&style=flat" alt="brucesteven" /> </p>
 
